@@ -8,6 +8,7 @@ $ deepak-kumar --metadata
   "current_mission": "Building decentralized systems that power tech",
   "status": "on-chain ⛓️"
 }
+```
 
 # 👋 Hii, this is DeepakKumar  
 
