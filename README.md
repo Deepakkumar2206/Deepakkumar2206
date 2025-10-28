@@ -2,10 +2,13 @@
   <img src="https://raw.githubusercontent.com/Deepakkumar2206/Deepakkumar2206/main/Banner.png" alt="Deepak Kumar Banner" width="100%">
 </p>
 
+
+
 <h3 align="center" style="margin-top: -10px;">
   🧱 Blockchain | Web3 | DeFi | Crypto & Stock Analyst
 </h3>
 
+<hr style="border:1px solid #2f2f2f; margin-top:8px; margin-bottom:8px;">
 
 # 👋 Hii, this is DeepakKumar  
 
