@@ -1,15 +1,3 @@
-```bash
-$ deepak-kumar --metadata
-{
-  "name": "Deepak Kumar",
-  "title": "Blockchain | Web3 | Crypto | DeFi Developer",
-  "focus": ["Smart Contracts", "Crypto", "AI + Blockchain"],
-  "languages": ["Solidity", "Rust", "Python"],
-  "current_mission": "Building decentralized systems that power tech",
-  "status": "on-chain ⛓️"
-}
-```
-
 # 👋 Hii, this is DeepakKumar  
 
 🚀 **Blockchain | Web3 | DeFi Developer**  
@@ -68,4 +56,4 @@ $ deepak-kumar --metadata
 
 ---
 
-⭐ *“Decentralize Finance. Democratize Opportunity.”*
+⭐ *“Decentralize. Democratize Opportunity.”*
