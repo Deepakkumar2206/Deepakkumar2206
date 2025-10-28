@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Deepakkumar2206/Deepakkumar2206/blob/main/banner.png?raw=true" alt="Deepak Kumar Banner" width="100%">
+</p>
+
 # 👋 Hii, this is DeepakKumar  
 
 🚀 **Blockchain | Web3 | DeFi Developer**  
