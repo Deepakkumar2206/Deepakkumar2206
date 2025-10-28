@@ -41,7 +41,7 @@ I also teach chess internationally, blending **education, and tech**.
 ## 🧩 Stats & Highlights  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar2206&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar2206&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar2206&exclude_repo=repo1,repo2&hide=C)
 
 ---
 
