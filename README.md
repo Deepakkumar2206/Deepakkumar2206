@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Deepakkumar2206/Deepakkumar2206/blob/main/banner.png?raw=true" alt="Deepak Kumar Banner" width="100%">
+  <img src="https://github.com/Deepakkumar2206/Deepakkumar2206/raw/main/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner%20(1).png" alt="Deepak Kumar Banner" width="100%">
 </p>
+
 
 # 👋 Hii, this is DeepakKumar  
 
