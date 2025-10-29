@@ -14,7 +14,7 @@
 
 🚀 **Blockchain | Web3 | DeFi Developer**  
 💹 **Crypto & Stock Market Analyst**  
-🌐 Passionate about building decentralized applications that bridge technology and finance.  
+🌐 Passionate about building Blockchain Worlds.  
 
 ---
 
@@ -22,7 +22,7 @@
 
 - 🧱 Exploring **Real Estate Tokenization** using NFTs and DeFi  
 - 🧩 Building smart contracts with **Solidity**, **Foundry**, and **OpenZeppelin**  
-- ⚡ Interested in **AI + Blockchain** integration for automated trading systems  
+- ⚡ Interested in **AI + Blockchain** integration.  
 
 ---
 
