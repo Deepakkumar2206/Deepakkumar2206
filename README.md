@@ -62,11 +62,6 @@
 ## ⚡ GitHub Analytics & Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepakkumar2206&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/Deepakkumar2206?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Deepakkumar2206?affiliations=OWNER&style=social)
-
-## 🚀 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Deepakkumar2206&theme=tokyonight&hide_border=false)
 
 ## 🌐 Connect  
 
