@@ -63,6 +63,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepakkumar2206&label=Profile%20Views&color=0e75b6&style=flat)
 
+## 🗓️ GitHub Activity Graph
+
+[![Deepak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumar2206&theme=tokyo-night&bg_color=000000&color=70A5FD&line=38BDAE&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🌐 Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepakKumar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deepakkumar-j)  
