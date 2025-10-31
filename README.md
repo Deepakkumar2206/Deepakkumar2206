@@ -45,7 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Deepakkumar2206&show_icons=true&hide_rank=true&bg_color=30,0a0a0a,1a1a1a,2a2a2a&title_color=00e6e6&text_color=cfcfcf&icon_color=00ffff&border_color=333333" alt="Deepakkumar's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar2206&layout=compact&bg_color=30,0a0a0a,1a1a1a,2a2a2a&title_color=00e6e6&text_color=cfcfcf&border_color=333333&hide=css,html,c" alt="Top Languages" width="48%"/>
 </p>
-
 ---
 
 ## 🚀 Some important Projects  
@@ -59,6 +58,8 @@
 ---
 
 ---
+## Visits
+![Profile views](https://komarev.com/ghpvc/?username=Deepakkumar2206&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌐 Connect  
 
