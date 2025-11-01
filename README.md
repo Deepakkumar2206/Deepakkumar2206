@@ -77,3 +77,5 @@
 ---
 
 ⭐ *“Decentralize. Democratize Opportunity.”*
+
+> All Project documentation are refined with the help of AI tools to improve clarity and consistency.
