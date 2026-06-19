@@ -5,7 +5,8 @@
 
 
 <h3 align="center" style="margin-top: -10px;">
-  🧱 Blockchain | Smart Contract Engineer  | Crypto & Stock Analyst | AI agents developer 
+  🧱 Blockchain | Smart Contract Engineer  | Crypto & Stock Analyst |
+🤖 AI agents developer 
 </h3>
 
 <hr style="border:1px solid #2f2f2f; margin-top:8px; margin-bottom:8px;">
@@ -13,8 +14,12 @@
 # 👋 Hii, this is DeepakKumar  
 
 🚀 **Blockchain | Smart contract engineer**  
+
 💹 **Crypto & Stock Market Analyst**
-⏳️ **AI agents developer** Passionate about building Blockchain Worlds.  
+
+🤖 **AI agents developer** 
+
+Passionate about building Blockchain Worlds.  
 
 ---
 
@@ -32,6 +37,7 @@
 |-----------|----------------------|
 | **Smart Contracts** | Solidity, Rust |
 | **Blockchain Tools** | Foundry, Hardhat, truffle Remix, OpenZeppelin |
+| **AI agents** | Python, MCP
 | **Frontend / dApps** | React, Next.js, TailwindCSS |
 | **Storage / Infra** | IPFS, Alchemy, Infura |
 | **Scripting & Data** | Python, JavaScript, TypeScript |
@@ -53,8 +59,8 @@
 |----------|--------------|--------|
 | 🪙 **Crypto Crowdfund dApp** | Decentralized crowdfunding using ERC20 & ERC721 | Solidity, Hardhat, React |
 | 🔗 **30 Days of Solidity** | Hands-on learning journey covering smart contracts | Solidity, Foundry |
-| 🏠 **Real Estate Tokenization (working...)** | Fractional property ownership via NFTs & DeFi | Solidity, IPFS, Next.js |
-
+| 🏠 **Real Estate Tokenization** | Fractional property ownership via NFTs & DeFi | Solidity, IPFS, Next.js |
+| 🤖 AI Agent Development | Building AI agents with MCP and automation workflows | Python, MCP | 
 ---
 
 ---
