@@ -5,16 +5,16 @@
 
 
 <h3 align="center" style="margin-top: -10px;">
-  🧱 Blockchain | Web3 | DeFi | Crypto & Stock Analyst
+  🧱 Blockchain | Smart Contract Engineer  | Crypto & Stock Analyst | AI agents developer 
 </h3>
 
 <hr style="border:1px solid #2f2f2f; margin-top:8px; margin-bottom:8px;">
 
 # 👋 Hii, this is DeepakKumar  
 
-🚀 **Blockchain | Web3 | DeFi Developer**  
-💹 **Crypto & Stock Market Analyst**  
-🌐 Passionate about building Blockchain Worlds.  
+🚀 **Blockchain | Smart contract engineer**  
+💹 **Crypto & Stock Market Analyst**
+⏳️ **AI agents developer** Passionate about building Blockchain Worlds.  
 
 ---
 
